@@ -1,0 +1,93 @@
+.container-fluid{
+  display: table;
+}
+
+.header{
+  background: rgb(0, 0, 0);
+}
+
+
+.header_1stName{
+  font: bold 230% sans-serif ; 
+  color: rgb(143, 228, 143);
+}
+
+.header_2ndName{
+  font: bold 230% sans-serif ; 
+  color:  rgb(164, 170, 164);
+
+}
+.fio3{
+  font:  160% sans-serif ; 
+  color: rgb(164, 170, 164);
+}
+.fio4{
+  font:  160% sans-serif ; 
+  color: rgb(164, 170, 164);
+  vertical-align: text-bottom;
+}
+
+.summary_header{
+  font: bold  120% sans-serif ; 
+  color: rgb(39, 46, 39);
+}
+.summary_fio{
+  font: bold 100% sans-serif ; 
+  color: rgb(98, 110, 98);
+}
+
+.summary_address{
+  font:  60% sans-serif small; 
+  color: rgb(98, 110, 98);
+
+}
+
+
+.summary{
+  border: thin solid cornflowerblue ;
+  margin-left: 1cm;
+  margin-top: 2px;
+  margin-right: 1cm;
+  padding: 1cm;
+  border-radius: 5px;
+  margin-bottom: 1cm;
+}
+
+.detail{
+  margin-left: 1cm;
+  margin-top: 2px;
+  margin-right: 1cm;
+  padding-bottom: 1em;
+}
+
+.info{
+  font: bold  120% sans-serif ; 
+  color: rgb(39, 46, 39);
+}
+
+
+
+.course_info{
+  font:   80% sans-serif ; 
+  color: rgb(39, 46, 39);
+}
+
+
+.footer{
+  background: rgb(0, 0, 0);
+}
+
+
+.footer_name{
+  font: 50% sans-serif small;
+  color: rgb(164, 170, 164);
+}
+
+.h5_header{
+  font: bold  120% sans-serif ; 
+  color: rgb(39, 46, 39);
+}
+
+.my_hr{
+  border-bottom: thin solid cornflowerblue ;
+}
